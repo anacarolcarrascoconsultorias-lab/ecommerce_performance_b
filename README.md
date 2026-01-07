@@ -1,4 +1,5 @@
 ![Customer Value Segmentation Dashboard Banner](ecomperf_b.png)
+*This dashboard explores how revenue is distributed across customers, revealing the degree to which business performance depends on a small group of high-value buyers.*
 
 # Customer Value Segmentation Dashboard — E-commerce Analysis (Google Sheets)
 
@@ -82,7 +83,7 @@ Together, they form a complete analytical story from **operations → customers 
 ## 📂 Files
 
 - 📊 Google Sheets Dashboard ([linked](https://docs.google.com/spreadsheets/d/1qNgzmTi4Qmoi4xFB32c1-UFSO5Z7OxLaZCqFV_hha9c/edit?usp=sharing))
-- 🗂️ GitHub Repository (this repo)
+- 🗂️ GitHub Repository ([option A](https://github.com/anacarolcarrascoconsultorias-lab/ecommerce_performance_a))
 
 ---
 
